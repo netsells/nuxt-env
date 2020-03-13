@@ -1,0 +1,14 @@
+{
+    "name": "@netsells/nuxt-env",
+    "version": "0.1.0",
+    "main": "index.js",
+    "repository": "git@github.com:netsells/nuxt-env.git",
+    "author": "Sam Turrell <sam.turrell@netsells.co.uk>",
+    "license": "MIT",
+    "dependencies": {
+        "@koumoul/nuxt-config-inject": "^0.4.3"
+    },
+    "publishConfig": {
+        "registry": "https://registry.npmjs.org/"
+    }
+}
